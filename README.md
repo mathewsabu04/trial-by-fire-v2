@@ -1,3 +1,3 @@
 # trail-by-fire-v2
 
-a simple html site deployed over github pages
+A simple website site that is deployed over github pages
